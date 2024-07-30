@@ -1,0 +1,8 @@
+# Transcription Project
+
+## Description
+This project uses Whisper and Torch to transcribe audio from meetings.
+
+## Installation
+```bash
+pip install -r requirements.txt
